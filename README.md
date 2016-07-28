@@ -44,3 +44,7 @@ namespace ConsoleApplication46
     }
 }
 ```
+
+Link
+----
+* [NuGet Gallery | LevelUp.Serializer.JsonNet](https://www.nuget.org/packages/LevelUp.Serializer.JsonNet/)
