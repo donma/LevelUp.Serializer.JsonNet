@@ -1,5 +1,9 @@
 # LevelUp.Serializer.JsonNet
 
+Feature
+* Let LevelUp.Serializer support JsonNet
+
+
 Example
 ```C#
 using System;
